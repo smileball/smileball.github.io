@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://smileball.github.io/categories/</loc>
+    <loc>https://smileball.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-03-20T13:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smileball.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smileball.github.io/</loc>
+    <loc>https://smileball.github.io/</loc>
+    <lastmod>2019-03-20T13:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smileball.github.io/tags/</loc>
+    <loc>https://smileball.github.io/posts/</loc>
+    <lastmod>2019-03-20T13:20:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smileball.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
